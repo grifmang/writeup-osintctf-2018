@@ -10,8 +10,9 @@ Our team suspects the user behind `margaret.russell@tutanota.de` revealed some i
 
 WriteUp
 -------
-
-TODO.
+- Start with Google search of email address 
+- Wrote Python script to search Google for string and scrape social media links
+- Wrote Python script to scrape each social media site
 
 Solution
 --------
